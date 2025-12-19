@@ -86,5 +86,4 @@ für den gesamten Datensatz aus
 ---
 
 Ergebnis: Ein **robustes, automatisiertes Reporting-System**, das Transparenz schafft, manuelle Arbeit reduziert und datengetriebene Entscheidungen unterstützt.
-lter (Slicer): Nutzer können nach Zeitraum, spezifischen Ärzten (z. B. Anna Feldmann) oder Fachabteilungen (z. B. Innere Medizin) filtern.
 
