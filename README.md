@@ -1,6 +1,4 @@
-# Reporting-Automatisierung-KIS-Daten-
-
-## Dokumentation: Automatisierung des klinischen Reportings (Verweildauer-Analyse)
+# Automatisierung des klinischen Reportings (Verweildauer-Analyse)
 
 ---
 
